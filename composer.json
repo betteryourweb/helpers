@@ -12,6 +12,9 @@
     "require": {
     },
     "autoload":{
+    	"files" : [
+    		"helpers/common.php"
+    	],
     	"psr-4":{
     		"Betteryourweb\\Helpers\\":"src/"
     	}
