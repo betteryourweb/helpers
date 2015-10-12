@@ -9,7 +9,8 @@
             "email": "betteryourweb@gmail.com"
         }
     ],
-    "require": {},
+    "require": {
+    },
     "autoload":{
     	"psr-4":{
     		"Betteryourweb\\Helpers\\":"src/"
