@@ -1,10 +1,6 @@
 {
     "name": "betteryourweb/helpers",
-<<<<<<< HEAD
     "description": "Helpers classes to aid with development",
-=======
-    "description": "Help class and functioins'",
->>>>>>> c7cae99f3a2afba62eb63d56582b1ba4c41b66d0
     "license": "MIT",
     "authors": [
         {
@@ -12,14 +8,10 @@
             "email": "betteryourweb@gmail.com"
         }
     ],
-<<<<<<< HEAD
     "require": {},
     "autoload":{
     	"psr-4":{
-    		"Betteryourweb\\Helpers\\":"src/"
+    		"betteryourweb\\Helpers\\":"src/"
     	}
     }
-=======
-    "require": {}
->>>>>>> c7cae99f3a2afba62eb63d56582b1ba4c41b66d0
 }
