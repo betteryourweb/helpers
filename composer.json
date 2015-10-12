@@ -1,3 +1,12 @@
 {
-  
+    "name": "betteryourweb/helpers",
+    "description": "Help class and functioins'",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Derek Williams",
+            "email": "betteryourweb@gmail.com"
+        }
+    ],
+    "require": {}
 }
