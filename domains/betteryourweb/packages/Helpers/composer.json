@@ -1,0 +1,17 @@
+{
+    "name": "betteryourweb/helpers",
+    "description": "Helpers classes to aid with development",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Derek Williams",
+            "email": "betteryourweb@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+    	"psr-4":{
+    		"betteryourweb\\Helpers\\":"src/"
+    	}
+    }
+}
